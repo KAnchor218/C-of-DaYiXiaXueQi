@@ -1,0 +1,3 @@
+3garbage_bag	5
+washing_powder	10
+toy	15

@@ -1,0 +1,11 @@
+10
+Alice	abc	258
+Bob	123	0
+Fds	w01320	1
+as	s1	0
+asd	s123	0
+asdasda	a12	0
+user	user	368754
+cao	456	1
+xin	123	0
+wei	123	1

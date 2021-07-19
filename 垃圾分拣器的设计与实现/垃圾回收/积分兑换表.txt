@@ -1,0 +1,5 @@
+5Plastic	5
+apple	3
+Battery	5
+medicine	15
+paper	3

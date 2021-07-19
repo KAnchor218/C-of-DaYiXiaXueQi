@@ -1,0 +1,7 @@
+3
+Recyclable	2
+Plastic	paper	
+NonRecyclable	1
+apple	
+harmable	2
+Battery	medicine	

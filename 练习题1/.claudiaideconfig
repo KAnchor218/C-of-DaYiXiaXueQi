@@ -1,0 +1,22 @@
+﻿{
+  "BackgroundImageAbsolutePath": "E:\\壁纸\\1号位.jpg",
+  "BackgroundImagesDirectoryAbsolutePath": "E:\\壁纸",
+  "ExpandToIDE": true,
+  "Extensions": ".png, .jpg, .gif, .bmp",
+  "ImageBackgroundType": 1,
+  "ImageFadeAnimationInterval": "PT0S",
+  "ImageStretch": 3,
+  "IsLimitToMainlyEditorWindow": false,
+  "LoopSlideshow": false,
+  "MaxHeight": 0,
+  "MaxWidth": 0,
+  "Opacity": 0.31,
+  "PositionHorizon": 2,
+  "PositionVertical": 2,
+  "ShuffleSlideshow": false,
+  "SoftEdgeX": 0,
+  "SoftEdgeY": 0,
+  "UpdateImageInterval": "PT1M",
+  "ViewBoxPointX": 0,
+  "ViewBoxPointY": 0
+}
